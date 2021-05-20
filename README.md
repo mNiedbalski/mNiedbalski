@@ -39,7 +39,7 @@
 </ul>
 
 <h1> My stats 👁‍🗨 </h1>
-[![mNiedbalski's GitHub stats](https://github-readme-stats.vercel.app/api?username=mNiedbalski&theme=dark)](https://github.com/mNiedbalski/github-readme-stats)
+<p> <img src="https://github-readme-stats.vercel.app/api?username=mNiedbalski&theme=dark">
 
 
 
