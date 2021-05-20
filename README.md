@@ -14,8 +14,7 @@
 
 <h1> Program "Darwin" </h1>
 
-[![mNiedbalski's GitHub stats](https://github-readme-stats.vercel.app/api?username=mNiedbalski)](https://github.com/mNiedbalski/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mNiedbalski&theme=dark" />
+[![mNiedbalski's GitHub stats](https://github-readme-stats.vercel.app/api?username=mNiedbalski&theme=dark)](https://github.com/mNiedbalski/github-readme-stats)
 
 
 
