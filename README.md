@@ -1,6 +1,9 @@
 <h1> Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<h2> About me </h2>
 <p>  My name is Michał Niedbalski and I'm currently studing Informatics at the Silesian Technical University. </p>
+<h2> About me <img src="https://giphy.com/stickers/face-emoji-emoticon-QsIgbvJpKUqpGtmEHJ" width="30px" </h2>
+<p> At the moment I'm expanding my knowledge concerning the C++ language. In the nearest future I would like to try collaborating on a programming project with other people
+  to learn how to cooperate in the programming facet. </p> 
+
 
 
 
