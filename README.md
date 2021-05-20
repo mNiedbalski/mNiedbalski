@@ -15,7 +15,20 @@
 <h1> <img src="https://user-images.githubusercontent.com/72338271/119033660-c32e3c00-b9ad-11eb-9f05-c28a6e213e4b.gif" width="25px"> Program "Darwin" </h1>
 
 <p> Darwin was the first advanced problem that I had to do. The process of this program can be listed as below: <br>
-> User provides the program with data, like:
+<ul> 
+  <li> User provides the program with data, like: 
+    <ul>
+     <li> Number of k-pairs chosen to reproduce </li>
+     <li> Number of p-generations </li>
+     <li> Extinction factor that belongs to the interval <0,1> </li>
+     <li> Reproduction factor that belongs to the interval <0,1> </li>
+     <li> Name of the input file</li>
+     <li> Name of the output file</li>
+    </ul>
+  </li>
+  
+</ul>
+> 
 >> Number of k-pairs chosen to reproduce
 >> 
 
