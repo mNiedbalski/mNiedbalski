@@ -26,12 +26,13 @@
      <li> Name of the output file</li>
     </ul>
   </li>
+  <li> Every inputted parameter is being checked whether it is in correct format or not. If something is wrong a simple instruction pops up. </li>
   <li> Program saves the data from the file in order to operate on it </li>
     <ul>
-      <li> The data is stored in this format: <br> <img src="https://user-images.githubusercontent.com/72338271/119059676-1665b600-b9d1-11eb-9021-e213859cab2b.png">
-</li>
+      <li> The data is stored in this format: <br> <img src="https://user-images.githubusercontent.com/72338271/119059676-1665b600-b9d1-11eb-9021-e213859cab2b.png"> <br> Every sequence of numbers is just a genetic code of a specific individual. </li>
     </ul>
-  <li>
+  <li> k-individuals are chosen from the population and the outcome of their reproduction are two another individuals. <br> More or less it means that process of the crossing-over is happening. It can be depicted as below: <br> <img src ="https://user-images.githubusercontent.com/72338271/119060582-c2f46780-b9d2-11eb-9c4d-c0341766a3cb.png">
+</li>
   
 </ul>
 
