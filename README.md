@@ -12,6 +12,10 @@
 <p> <img src="https://user-images.githubusercontent.com/72338271/119032662-ba893600-b9ac-11eb-90b7-65f585a73ff4.gif" width="25px"> Minesweeper with the board size chosen by user. In this project I have implemented the flood fill algorithm.
 <p> <img src="https://user-images.githubusercontent.com/72338271/119032169-2b7c1e00-b9ac-11eb-9816-2942dd3f4b9a.gif" width="25px"> Shaking Christmas Tree that's size is determined by the user. </p>
 
+<h1> Program "Darwin" </h1>
+
+[![mNiedbalski's GitHub stats](https://github-readme-stats.vercel.app/api?username=mNiedbalski)](https://github.com/mNiedbalski/github-readme-stats)
+
 
 
 
