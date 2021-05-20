@@ -32,8 +32,10 @@
       <li> The data is stored in this format: <br> <img src="https://user-images.githubusercontent.com/72338271/119059676-1665b600-b9d1-11eb-9021-e213859cab2b.png"> <br> Every sequence of numbers is just a genetic code of a specific individual. 
       </li>
     </ul>
-  <li> 2 individuals are chosen from the population and the outcome of their reproduction are two another individuals. <br> More or less it means that process of the crossing-over is happening. It can be depicted as below: <br> <img src ="https://user-images.githubusercontent.com/72338271/119060582-c2f46780-b9d2-11eb-9c4d-c0341766a3cb.png">
-    <ul> <li> This process is repeated k-times </li> </ul>
+  <li> 2 individuals are chosen from the population and the outcome of their reproduction are two another individuals. <br> More or less it means that process of the crossing-over is happening. 
+<ul>
+  <li> It can be depicted as below: <br> <img src ="https://user-images.githubusercontent.com/72338271/119060582-c2f46780-b9d2-11eb-9c4d-c0341766a3cb.png"> </li>
+  <li> This process is repeated k-times </li> </ul>
 </li>
   
 </ul>
