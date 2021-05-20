@@ -14,7 +14,7 @@
 
 <h1> <img src="https://user-images.githubusercontent.com/72338271/119033660-c32e3c00-b9ad-11eb-9f05-c28a6e213e4b.gif" width="25px"> Program "Darwin" </h1>
 
-<p> Darwin was the first advanced problem that I had to do. The process of this program can be listed as below: <br>
+<p> Darwin is the most advanced problem that I have done. The process of this program can be listed as below: <br>
 <ul> 
   <li> User provides the program with data, like: 
     <ul>
@@ -26,11 +26,14 @@
      <li> Name of the output file</li>
     </ul>
   </li>
+  <li> Program saves the data from the file in order to operate on it </li>
+    <ul>
+      <li> The data is stored in this format: <br> ![image](https://user-images.githubusercontent.com/72338271/119059676-1665b600-b9d1-11eb-9021-e213859cab2b.png)
+</li>
+    </ul>
+  <li>
   
 </ul>
-> 
->> Number of k-pairs chosen to reproduce
->> 
 
 [![mNiedbalski's GitHub stats](https://github-readme-stats.vercel.app/api?username=mNiedbalski&theme=dark)](https://github.com/mNiedbalski/github-readme-stats)
 
