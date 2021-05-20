@@ -28,7 +28,7 @@
   </li>
   <li> Program saves the data from the file in order to operate on it </li>
     <ul>
-      <li> The data is stored in this format: <br> ![image](https://user-images.githubusercontent.com/72338271/119059676-1665b600-b9d1-11eb-9021-e213859cab2b.png)
+      <li> The data is stored in this format: <br> <img src="https://user-images.githubusercontent.com/72338271/119059676-1665b600-b9d1-11eb-9021-e213859cab2b.png">
 </li>
     </ul>
   <li>
