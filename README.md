@@ -1,4 +1,4 @@
-<h1> Hello! </h1>
+<h1> Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <h2> About me </h2>
 <p>  My name is Michał Niedbalski and I'm currently studing Informatics at the Silesian Technical University. </p>
 
