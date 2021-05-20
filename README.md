@@ -4,7 +4,11 @@
 
 <p> At the moment I'm expanding my knowledge concerning the C++ language. In the nearest future I would like to try collaborating on a programming project with other people
   to learn how to cooperate in the programming facet. </p> 
-  
+<h1> Programming languages I'm learning <img src="https://user-images.githubusercontent.com/72338271/119062015-013f5600-b9d6-11eb-8cc8-f1db15950f59.png" width="50px">
+</h1>
+<ul>
+  <li> <img src="https://user-images.githubusercontent.com/72338271/119062127-419ed400-b9d6-11eb-8806-188fac72177c.png" width="25px"> C++ </li>
+</ul>
 <h1> Programs that I have completed <img src="https://user-images.githubusercontent.com/72338271/119033984-2c15b400-b9ae-11eb-86db-f82c071bd491.gif" width="50px"> </h1>
 
 <p> <img src="https://user-images.githubusercontent.com/72338271/119033660-c32e3c00-b9ad-11eb-9f05-c28a6e213e4b.gif" width="25px"> "Darwin". Basically this program simulates living cycles of individuals in which they reproduce and in which they also die. Everything depends on the given data by user. </p> 
