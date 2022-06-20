@@ -13,6 +13,9 @@
 <p> <img src="https://user-images.githubusercontent.com/72338271/119031640-96792500-b9ab-11eb-8468-c9b593963f02.gif" width="25"> Tic Tac Toe with board's size determined by user and game mode in which user competes with the algorithm </p>
 <p> <img src="https://user-images.githubusercontent.com/72338271/119032662-ba893600-b9ac-11eb-90b7-65f585a73ff4.gif" width="25"> Minesweeper with the board size chosen by user. In this project I have implemented the flood fill algorithm.
 <p> <img src="https://user-images.githubusercontent.com/72338271/119032169-2b7c1e00-b9ac-11eb-9816-2942dd3f4b9a.gif" width="25"> Shaking Christmas Tree that's size is determined by the user. </p>
+<p> Bellman-Ford algorithm. </p>
+<p> Firm management. </p>
+<p> Climb Together. </p>
 
 <h1> <img src="https://user-images.githubusercontent.com/72338271/119033660-c32e3c00-b9ad-11eb-9f05-c28a6e213e4b.gif" width="25"> Program "Darwin" </h1>
 
