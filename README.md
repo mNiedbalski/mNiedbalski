@@ -4,8 +4,9 @@
 
 <p> At the moment I'm expanding my knowledge concerning the C++ language. In the nearest future I would like to try collaborating on a programming project with other people
   to learn how to cooperate in the programming facet. </p> 
-<h1> Programming languages I'm learning <img src="https://user-images.githubusercontent.com/72338271/119062306-b8d46800-b9d6-11eb-889e-c38876d95bbb.gif" height="50">
-<p> ![java](https://user-images.githubusercontent.com/72338271/197401895-a2460c5c-b3e8-4095-9f94-c41d3aedfd15.gif) </p>
+<h1> Programming languages I'm learning 
+<img src="https://user-images.githubusercontent.com/72338271/119062306-b8d46800-b9d6-11eb-889e-c38876d95bbb.gif" height="50">
+<img src="https://user-images.githubusercontent.com/72338271/197401895-a2460c5c-b3e8-4095-9f94-c41d3aedfd15.gif" height="50">
 </h1>
  <p> <img src="https://user-images.githubusercontent.com/72338271/119062353-dbff1780-b9d6-11eb-9f63-a4b19644557a.gif" width="50"> </p>
 <h1> Programs that I have completed <img src="https://user-images.githubusercontent.com/72338271/119033984-2c15b400-b9ae-11eb-86db-f82c071bd491.gif" width="50"> </h1>
