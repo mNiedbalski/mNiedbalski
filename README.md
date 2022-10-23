@@ -7,8 +7,10 @@
 <h1> Programming languages I'm learning 
 <img src="https://user-images.githubusercontent.com/72338271/119062306-b8d46800-b9d6-11eb-889e-c38876d95bbb.gif" height="50">
 </h1>
- <p> <img src="https://user-images.githubusercontent.com/72338271/119062353-dbff1780-b9d6-11eb-9f63-a4b19644557a.gif" width="50"> </p>
+ <p> <img src="https://user-images.githubusercontent.com/72338271/119062353-dbff1780-b9d6-11eb-9f63-a4b19644557a.gif" height="50"> </p>
  <p> <img src="https://user-images.githubusercontent.com/72338271/197401895-a2460c5c-b3e8-4095-9f94-c41d3aedfd15.gif" height="50"> </p>
+ <p> <img src="https://user-images.githubusercontent.com/72338271/197402025-e8275e87-1c1a-4a32-a757-eab3e2e8a8e0.gif" height="50"> </p>
+
 <h1> Programs that I have completed <img src="https://user-images.githubusercontent.com/72338271/119033984-2c15b400-b9ae-11eb-86db-f82c071bd491.gif" width="50"> </h1>
 
 <p> <img src="https://user-images.githubusercontent.com/72338271/119033660-c32e3c00-b9ad-11eb-9f05-c28a6e213e4b.gif" width="25"> "Darwin". Basically this program simulates living cycles of individuals in which they reproduce and in which they also die. Everything depends on the given data by user. </p> 
