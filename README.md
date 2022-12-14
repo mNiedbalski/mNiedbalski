@@ -22,7 +22,7 @@
 
 <p> Firm management. Program that can be used to manage a firm. Everything is based on a project pattern called composite - every branch can have other branches below in hierarchy. As administrator You can add branches, alter salaries, add new workers, give promotions etc.  </p>
 
-<p> Climb Together. Program created for commercional usage. The point of this program is to track users' progress in climbing and to provide crucial analytical data to gym owners. This data can help to adjust gym's amenities based on clients. This is the most advanced OOP program I have ever made. </p>
+<p> Climb Together. Program created for commercial usage. The point of this program is to track users' progress in climbing and to provide crucial analytical data to gym owners. This data can help to adjust gym's amenities based on clients. This is the most advanced OOP program I have ever made. </p>
 
 <h1> <img src="https://user-images.githubusercontent.com/72338271/119033660-c32e3c00-b9ad-11eb-9f05-c28a6e213e4b.gif" width="25"> Program "Darwin" </h1>
 
