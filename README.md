@@ -24,7 +24,7 @@
 
 <p> Climb Together. Program created for commercial usage. The point of this program is to track users' progress in climbing and to provide crucial analytical data to gym owners. This data can help to adjust gym's amenities based on clients. This is the most advanced OOP program I have ever made. </p>
 
-<p> Cinema Management. Web application made in 5 people team. My task was to create frontend of our web application. We were using Angular+Bootstrap 14, .NET Coree 6 and Entity Framework.</p>
+<p> Cinema Management. Web application made in 5 people team. My task was to create frontend of our web application. We were using Angular+Bootstrap 14, .NET Coree 6 and Entity Framework. <br> Link to the repository: https://github.com/StartupZmitac/ZMiTACinema</p>
 
 <p> OnlyPlants. Mobile application made in 5 people team. My task was to create frontend. We were using React native. 
 
