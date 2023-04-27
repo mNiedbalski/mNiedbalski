@@ -24,6 +24,10 @@
 
 <p> Climb Together. Program created for commercial usage. The point of this program is to track users' progress in climbing and to provide crucial analytical data to gym owners. This data can help to adjust gym's amenities based on clients. This is the most advanced OOP program I have ever made. </p>
 
+<p> Cinema Management. Web application made in 5 people team. My task was to create frontend of our web application. We were using Angular+Bootstrap with .NET Core.</p>
+
+<p> OnlyPlants. Mobile application made in 5 people team. My task was to create frontend. We were using React native. 
+
 <h1> <img src="https://user-images.githubusercontent.com/72338271/119033660-c32e3c00-b9ad-11eb-9f05-c28a6e213e4b.gif" width="25"> Program "Darwin" </h1>
 
 <p> Darwin is the one of the most advanced problems that I have done. This program was done using the data structure called "list". The process of this program can be listed as below: <br>
