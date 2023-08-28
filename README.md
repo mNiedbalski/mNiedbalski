@@ -1,11 +1,3 @@
-<h1> Technologies I'm learning 
-<img src="https://user-images.githubusercontent.com/72338271/119062306-b8d46800-b9d6-11eb-889e-c38876d95bbb.gif" height="50">
-</h1>
- <p> <img src="https://user-images.githubusercontent.com/72338271/119062353-dbff1780-b9d6-11eb-9f63-a4b19644557a.gif" height="50"> </p>
- <p> <img src="https://user-images.githubusercontent.com/72338271/197401895-a2460c5c-b3e8-4095-9f94-c41d3aedfd15.gif" height="50"> </p>
- <p> <img src="https://user-images.githubusercontent.com/72338271/197402025-e8275e87-1c1a-4a32-a757-eab3e2e8a8e0.gif" height="50"> </p>
- <p> <img src="https://user-images.githubusercontent.com/72338271/207717674-d7a7e6ae-058f-4362-9344-23e4bf5ffd76.gif" height="50"> </p>
-
 <h1> Programs that I have completed <img src="https://user-images.githubusercontent.com/72338271/119033984-2c15b400-b9ae-11eb-86db-f82c071bd491.gif" width="50"> </h1>
 <p> OnlyPlants. Mobile application made in 5 people team. My task was to create frontend. We were using React native.
 <br> Link to the repository: https://github.com/StartupZmitac/OnlyPlants </p> 
