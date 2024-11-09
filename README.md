@@ -45,9 +45,6 @@
   <li> Whole population is being saved on a text file that is the final outcome of this program </li>
 </ul>
 
-<h1> My stats 👁‍🗨 </h1>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=mNiedbalski&theme=dark">
-
 
 
 
