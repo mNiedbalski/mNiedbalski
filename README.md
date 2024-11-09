@@ -13,7 +13,7 @@
 
 <h1> <img src="https://user-images.githubusercontent.com/72338271/119033660-c32e3c00-b9ad-11eb-9f05-c28a6e213e4b.gif" width="25"> Program "Darwin" </h1>
 
-<p> Darwin is a program using genetical algorithm. The process of this program can be listed as below: <br>
+<p> Darwin is a program in which genetic algorithm was implemented. The process of this program can be listed as below: <br>
 <ul> 
   <li> User provides the program with data, like: 
     <ul>
