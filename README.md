@@ -1,6 +1,6 @@
 <h1> Programs that I have completed <img src="https://user-images.githubusercontent.com/72338271/119033984-2c15b400-b9ae-11eb-86db-f82c071bd491.gif" width="50"> </h1>
 <p> Pergolas/Awnings/Screens Configurator. Repository private on gitlab. </p>
-<p> OnlyPlants. Mobile application made in 5 people team. My task was to create frontend. We were using React native.
+<p> Plants manager. Mobile application made in 5 people team. My task was to create frontend. We were using React native.
 <br> Link to the repository: https://github.com/StartupZmitac/OnlyPlants </p> 
 <p> Cinema Management. Web application made in 5 people team. My task was to create frontend of our web application. We were using Angular+Bootstrap 14, .NET Core 6 and Entity Framework. <br> Link to the repository: https://github.com/StartupZmitac/ZMiTACinema</p>
 <p> Climb Together. Program created for commercial usage. The point of this program is to track users' progress in climbing and to provide crucial analytical data to gym owners. This data can help to adjust gym's amenities based on clients.</p>
