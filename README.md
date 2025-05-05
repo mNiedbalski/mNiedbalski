@@ -1,6 +1,6 @@
-<h1> Programs that I have completed <img src="https://user-images.githubusercontent.com/72338271/119033984-2c15b400-b9ae-11eb-86db-f82c071bd491.gif" width="50"> </h1>
+<h1> Few of the programs that I have completed <img src="https://user-images.githubusercontent.com/72338271/119033984-2c15b400-b9ae-11eb-86db-f82c071bd491.gif" width="50"> </h1>
 <p> AI Resume optimizer with PDF generation and stats tracking. Repository private.  </p>
-<p> Invoicing system in PHP Laravel with Eloquent ORM and Redis Queue. Repository private. </p>
+<p> Invoicing system in PHP Laravel with Eloquent ORM and Redis Queue. </p>
 <p> Pergolas/Awnings/Screens CPQ aimed at B2B industry. Repository private on gitlab. </p>
 <p> Plants manager. Mobile application made in 5 people team. My task was to create frontend. We were using React native.
 <br> Link to the repository: https://github.com/StartupZmitac/OnlyPlants </p> 
